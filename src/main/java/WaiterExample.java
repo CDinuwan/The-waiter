@@ -22,6 +22,7 @@ public class WaiterExample {
 
     private class ButtonPage {
 
+        //Page factory used for find element
         @FindBy(how = How.ID, using = "easy00")
         public WebElement startButton;
 
