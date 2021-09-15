@@ -1,4 +1,5 @@
-import _15_awaitility.ThreadedFileCreator;
+package awaitility;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
